@@ -13,5 +13,5 @@ The mini project is a 2D demonstration of spread of virus in the society.
 - **Transformation function**: To show the movement of people and car.
 - **Menu function**: Start animation, move to last page and exit
 - **Input interaction**: For the movement of bus, people(R to move and S to stop), for getting in the bus(Y for getting in and A for getting out), for spread of virus(X to spread) and to go to next frame.
-- **Texture functions**: To add the image of tombstone (libraryu used SOIL).
+- **Texture mapping**: To add the image of tombstone (library used SOIL).
 
